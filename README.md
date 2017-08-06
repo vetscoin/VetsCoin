@@ -1,0 +1,2 @@
+# VetsCoin
+VetsCoin Wallet
